@@ -67,3 +67,32 @@ body{
     align-items: center;
     text-align: center;
 }  
+.aboutme-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin:10px 10px;
+    padding: 20px 20px;
+    font-size: larger;
+}
+.about-text{
+    margin-top: 1rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h2about{
+    padding-top: 2rem;
+    font-size: 32px;
+    color: white;
+    font-weight: 300;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 6rem;
+}
