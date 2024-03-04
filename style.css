@@ -78,9 +78,11 @@ body{
     font-size: larger;
 }
 .about-text{
-    margin-top: 1rem;
+    padding-top: 3rem;
+    position: relative;
+    left: 0;
     display: flex;
-    text-align: center;
+    text-align: start;
     align-items: center;
     justify-content: center;
     font-size: xx-large;
